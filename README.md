@@ -1,4 +1,12 @@
-<h2 align="left">Stats</h2>
+<h2 align="left">Gregory Castezana</h2>
+
+###
+
+<h4 align="left">Java Developer</h4>
+
+###
+
+<p align="left">Postgraduate in Software Architecture and Development, with solid experience in developing Rest API, monoliths and microservices, using Java/Kotlin, Spring Boot and Quarkus.</p>
 
 ###
 
@@ -6,10 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gregorydossantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gregorydossantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/gregorydossantos/gregorydossantos/output/snake.svg" alt="Snake animation" />
 
 ###
 
