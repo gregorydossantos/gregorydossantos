@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Postgraduate in Software Architecture and Development, with solid experience in developing Rest API, monoliths and microservices, using Java/Kotlin, Spring Boot and Quarkus.</p>
+<p align="left">Postgraduate in Software Architecture and Development, with five years experience with MVC project architectures, layered architecture, microservices and monoliths. Use of Spring and Quarkus Framework for developing web applications, Rest API and use of the most important libraries such as Spring Security, JPA, Hibernate, Kafka, Lombok, JUnit, Mockito, among others. Experience in cloud computing with AWS. I have worked with the most important databases such as Oracle, Postgres and MySQL. Application of agile methodology and use of kanban board for managing project activities and code versioning performed by Git.</p>
 
 ###
 
